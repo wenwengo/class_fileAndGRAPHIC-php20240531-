@@ -1,0 +1,6 @@
+files為mySQL的資料庫
+該目錄下存放之的 .frm及.ibd檔案(其主檔名)即
+為其資料庫表單
+
+置放路徑
+磁碟機:\xampp\mysql\data
